@@ -1,0 +1,5 @@
+# ninja log v5
+2	386	7179360258628944	build.ninja	bce18ac597b2e39b
+6	1544	7041483149548433	CMakeFiles/blackjack.dir/main.cpp.obj	20b30957822b779a
+5	4618	7044155026025774	CMakeFiles/blackjack.dir/blackjack.cpp.obj	95b12ad921b7b52a
+4619	5037	7044155030204142	blackjack.exe	55dc23666ab32a94
